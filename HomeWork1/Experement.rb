@@ -1,7 +1,8 @@
 
 def funk
   {test:4,
-   test2:5}
+   test2:5,
+   hello:"test"}
 end
 
 

@@ -11,7 +11,7 @@ funk.each do |k,v|
 end
 
 
-
+zmina_dlia_git = true
 
 
 
